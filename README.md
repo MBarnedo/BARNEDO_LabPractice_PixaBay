@@ -27,7 +27,8 @@ curl "https://pixabay.com/api/videos/?key=YOUR_API_KEY&q=Rocket+Launch&category=
 
 *(Insert screenshot of the terminal/browser JSON output here — remember to blur your key.)*
 
-<img width="1917" height="361" alt="image" src="https://github.com/user-attachments/assets/152dabd9-01cb-4ef1-a575-bf045009227f" />
+<img width="1917" height="618" alt="image" src="https://github.com/user-attachments/assets/0797d43f-e0a0-45e0-bd17-482f92d68c6d" />
+
 
 ---
 
@@ -58,7 +59,8 @@ curl "https://pixabay.com/api/videos/?key=YOUR_API_KEY&q=Basketball&category=spo
 
 *(Insert screenshot of the terminal/browser JSON output here — remember to blur your key.)*
 
-`![Challenge 2 response](images/basketball.png)`
+<img width="1917" height="396" alt="image" src="https://github.com/user-attachments/assets/0633cffb-3e5d-4fb7-9838-9273f5cf4c97" />
+
 
 ---
 
@@ -82,6 +84,7 @@ Combined, these parameters form the same kind of endpoint used in Challenges 1 a
 ```
 https://pixabay.com/api/videos/?key=YOUR_API_KEY&q=Forest&category=backgrounds&editors_choice=true&order=latest&per_page=3
 ```
+<img width="1917" height="488" alt="image" src="https://github.com/user-attachments/assets/64e1ccc8-23e9-45fb-8b41-ff02f5ab7566" />
 
 ### CURL command
 
@@ -125,6 +128,7 @@ curl "https://pixabay.com/api/?key=YOUR_API_KEY&q=Road+Forest&image_type=photo&c
 
 *(Insert screenshot of the terminal/browser JSON output here — remember to blur your key.)*
 
-`![Challenge 3 response](images/road.png)`
+<img width="1917" height="365" alt="image" src="https://github.com/user-attachments/assets/48da86c1-9ee1-4f78-b61c-145ef13c63d2" />
+
 ---
 
