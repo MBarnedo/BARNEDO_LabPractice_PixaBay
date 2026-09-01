@@ -84,7 +84,7 @@ Combined, these parameters form the same kind of endpoint used in Challenges 1 a
 ```
 https://pixabay.com/api/videos/?key=YOUR_API_KEY&q=Forest&category=backgrounds&editors_choice=true&order=latest&per_page=3
 ```
-<img width="1917" height="488" alt="image" src="https://github.com/user-attachments/assets/64e1ccc8-23e9-45fb-8b41-ff02f5ab7566" />
+
 
 ### CURL command
 
@@ -96,7 +96,7 @@ curl "https://pixabay.com/api/videos/?key=YOUR_API_KEY&q=Forest&category=backgro
 
 *(Insert screenshot of the terminal/browser JSON output here — remember to blur your key.)*
 
-`![Challenge 3 response](images/road.png)`
+<img width="1917" height="488" alt="image" src="https://github.com/user-attachments/assets/64e1ccc8-23e9-45fb-8b41-ff02f5ab7566" />
 
 ---
 
