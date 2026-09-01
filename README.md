@@ -27,11 +27,7 @@ curl "https://pixabay.com/api/videos/?key=YOUR_API_KEY&q=Rocket+Launch&category=
 
 *(Insert screenshot of the terminal/browser JSON output here — remember to blur your key.)*
 
-`![Challenge 1 response](images/basket<img width="1917" height="460" alt="road forest" src="https://github.com/user-attachments/assets/8c5a0906-8e1f-4fe2-ba61-e832c448095e" />
-<img width="1917" height="490" alt="basketball" src="https://github.com/user-attachments/assets/476b9c79-7c74-4dd3-a8ad-8f537f8cb7f1" />
-<img width="1917" height="430" alt="road" src="https://github.com/user-attachments/assets/4122dfe0-5db2-406d-9c12-84d7f6ea7748" />
-<img width="1917" height="627" alt="rocket launcher" src="https://github.com/user-attachments/assets/3889f2ef-b0a2-49c5-9dd0-6934494c8b5c" />
-ball.png)`
+<img width="1917" height="361" alt="image" src="https://github.com/user-attachments/assets/152dabd9-01cb-4ef1-a575-bf045009227f" />
 
 ---
 
