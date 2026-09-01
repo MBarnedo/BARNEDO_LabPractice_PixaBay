@@ -1,22 +1,5 @@
 # Pixabay API Lab Practice
 
-This repository documents four search requests made against the [Pixabay API](https://pixabay.com/api/docs/) using CURL, as part of the ITCC lab activity. Each challenge below shows the exact request that was sent and the JSON response that came back.
-
-> **Note on the API key:** every screenshot and code block in this README uses `YOUR_API_KEY` as a stand-in. My real key is never committed to this repo or shown in any image, per the lab instructions.
-
----
-
-## How requests are built
-
-Pixabay exposes two separate endpoints:
-
-- `https://pixabay.com/api/` — for **images**
-- `https://pixabay.com/api/videos/` — for **videos**
-
-Every request needs your personal `key`. Everything else is a **query parameter** — a `name=value` pair appended after the `?`, with additional pairs joined by `&`. The **request URL** is simply the base endpoint plus all of those query parameters strung together.
-
----
-
 ## Challenge 1: Rocket Launch (Video)
 
 **Goal:** search Pixabay's video library for "Rocket Launch" videos in the Science category that are Editor's Choice, limited to 3 results.
