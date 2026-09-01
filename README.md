@@ -27,7 +27,7 @@ curl "https://pixabay.com/api/videos/?key=YOUR_API_KEY&q=Rocket+Launch&category=
 
 *(Insert screenshot of the terminal/browser JSON output here — remember to blur your key.)*
 
-`![Challenge 1 response](images/challenge1-response.png)`
+`![Challenge 1 response](images/basketball.png)`
 
 ---
 
@@ -58,7 +58,7 @@ curl "https://pixabay.com/api/videos/?key=YOUR_API_KEY&q=Basketball&category=spo
 
 *(Insert screenshot of the terminal/browser JSON output here — remember to blur your key.)*
 
-`![Challenge 2 response](images/challenge2-response.png)`
+`![Challenge 2 response](images/basketball.png)`
 
 ---
 
@@ -93,7 +93,7 @@ curl "https://pixabay.com/api/videos/?key=YOUR_API_KEY&q=Forest&category=backgro
 
 *(Insert screenshot of the terminal/browser JSON output here — remember to blur your key.)*
 
-`![Challenge 3 response](images/challenge3-response.png)`
+`![Challenge 3 response](images/road.png)`
 
 ---
 
@@ -123,17 +123,7 @@ curl "https://pixabay.com/api/?key=YOUR_API_KEY&q=Road+Forest&image_type=photo&c
 
 ### Response (first 30 lines)
 
-*(JSON responses can run long — paste only the top 30 lines, or screenshot just the top portion.)*
 
-```json
-// paste the first 30 lines of the JSON response here
-```
-
+`![Challenge 4 response](images/road forest.png)`
 ---
 
-## Notes / Observations
-
-- The **image** endpoint (`/api/`) and the **video** endpoint (`/api/videos/`) are separate — using the wrong one for a given challenge returns the wrong content type entirely.
-- `editors_choice` and other booleans are passed as the strings `true`/`false` in the query string.
-- `category` values must match Pixabay's fixed list (e.g. `backgrounds`, not `background`) or the parameter is silently ignored.
-- Every response includes `total`, `totalHits`, and a `hits` array — `hits` is where the actual video/image objects live.
